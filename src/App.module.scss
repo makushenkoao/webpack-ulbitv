@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #d4d4d4;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  font-size: 30px;
+}
+
+.links {
+  display: flex;
+  gap: 15px;
+  text-decoration: none;
+  color: inherit;
+}
